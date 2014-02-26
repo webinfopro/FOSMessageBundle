@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/message-bundle",
+    "name": "webinfopro/message-bundle",
     "type": "symfony-bundle",
     "description": "Provides user-to-user messaging features for your Symfony2 application.",
     "keywords": ["symfony", "message", "messaging"],
@@ -18,10 +18,10 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony/form": "~2.1",
-        "symfony/framework-bundle": "~2.1",
-        "symfony/security": "~2.1",
-        "symfony/twig-bundle": "~2.1"
+        "symfony/form": "~2.3",
+        "symfony/framework-bundle": "~2.3",
+        "symfony/security": "~2.3",
+        "symfony/twig-bundle": "~2.3"
     },
     "suggest": {
         "doctrine/doctrine-bundle": "dev-master",
